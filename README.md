@@ -3,11 +3,12 @@
 <div align="center">
   <h1> Olá! Eu sou o Matheus! 👋  </h1>
 <p>Atualmente curso Análise e Desenvolvimento de Sistemas e obcecado em web desenvolvimento. 📚</p>
+ <div align="left">
  <p> Currículo em html e css em andamento:  <a href="www.matheusxreis.github.io/curriculo"> Currículo </a> </p>
  <p> Projeto de blog pessoal (sem uso de CMS, só página estática): <a href="www.matheusxreis.github.io/ratoprogramado"> Rato Programado </a> </p>
  <p> Cópia visual do site da net-claro-wifi:<a href="www.matheusxreis.github.io/projeto-claro"> Projeto Claro </a>  </p>
  <p> Projeto de grid-layout do curso da Origamid:<a href="www.matheusxreis.github.io/projeto-wildbeast"> Projeto Wildbeast </a></p>
- 
+ </div>
  
 <div style="display:inline_block">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"  width="70px" height="70px">
