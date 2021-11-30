@@ -1,20 +1,28 @@
  
 
-<div align="center">
-  <h1> Olá! Eu sou o Matheus! 👋  </h1>
-<p>Atualmente curso Análise e Desenvolvimento de Sistemas e obcecado em web desenvolvimento. 📚</p>
- <div align="left">
+
+ ## Olá, me chamo Matheus! 👋  
+
+  <a href="https://github.com/matheusxreis">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusxreis&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusxreis&layout=compact&langs_count=7&theme=white"/>
+</a>
  
-<div style="display:inline_block">
+ ## Sobre mim
 
-</div>                                                                                                                       
-                                                                                                                                                                                 
-                                                                                                                            
+<p>20 anos, sempre a procura de aprender coisas novas. 📚</p>
 
+ <p>
+ Desde jan/2021 cursando Análise e Desenvolvimento de Sistemas na UNIP.
+ </p>
+ <p>
+  Apreciador do mundo Linux, do software livre e usuário do Debian.
+  Eternamente grato ao JavaScript, por onde comecei, mas um verdadeiro fã da linguagem C.
+ </p>
+ 
+ Um viva a programação, progamadores, ao metal e aos headbangers! :love_you_gesture:
 
-                                                                                                                            
-                                                                                                                             
-                                                                                                                             
+                                                                                 
 
 <!--
 **matheusxreis/matheusxreis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
