@@ -20,7 +20,7 @@
   Eternamente grato ao JavaScript, por onde comecei, mas um verdadeiro fã da linguagem C.
  </p>
  
- Um viva a programação, progamadores, ao metal e aos headbangers! :love_you_gesture:
+ Um viva a programação, programadores, ao metal e aos headbangers! :love_you_gesture:
 
                                                                                  
 
