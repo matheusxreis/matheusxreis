@@ -18,6 +18,7 @@
  <p>
   Apreciador do mundo Linux, do software livre e usuário do Debian.
   Eternamente grato ao JavaScript, por onde comecei, mas um verdadeiro fã da linguagem C.
+  E também extremamente curioso e interessado em cybersecurity.
  </p>
  
  Um viva a programação, programadores, ao metal e aos headbangers! :love_you_gesture:
