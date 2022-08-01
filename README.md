@@ -1,30 +1,28 @@
  
 
 
- ## Olá, me chamo Matheus! 👋  
+ ## Hello, my name is Matheus! 👋
 
   <a href="https://github.com/matheusxreis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusxreis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusxreis&layout=compact&langs_count=7&theme=dark"/>
 </a>
  
- ## Sobre mim
+ ## About me
 
-<p>21 anos, sempre a procura de aprender coisas novas. 📚</p>
+<p>21 years, always looking for learning new things. 📚</p>
 
  <p>
- Desde jan/2021 cursando Análise e Desenvolvimento de Sistemas na UNIP.
+ Since january/2021 I'm studying in the UNIP.
+ 
  </p>
  <p>
-  Apreciador do mundo GNU/Linux, do software livre e usuário do Debian.
-  Eternamente grato ao JavaScript.
-  E também extremamente curioso e interessado em cybersecurity.
+ I'm a big fan from GNU/Linux environment, free software and a proud Debian's user. Forever grateful to Javascript. And extremely interested in cybersecurity.
  </p>
  
- Um viva a programação, programadores, ao metal e aos headbangers! :love_you_gesture:
+Long live programming, programmers, metal and headbangers! :love_you_gesture: 
  
- 
- ## Tecnologias que possuo conhecimento:
+ ## Technologies I have knowledge of:
  
  ![Skills](https://img.shields.io/badge/GNU/Linux-212930?style=for-the-badge&logo=debian&logoColor=CE0056)
  ![Skills](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
@@ -42,7 +40,7 @@
  
 
  
- ## Possuo noção:
+ ## I have basic understanding:
  ![Skills](https://img.shields.io/badge/NextJS-ce0022?style=for-the-badge&logo=next.js&logoColor=white)
  ![Skills](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
  ![Skills](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
