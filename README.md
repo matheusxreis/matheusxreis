@@ -13,7 +13,7 @@
 
  <p>
      <b>Android and Kotlin enthusiast</b>,
-    22 years old, , I keep headbanging and coding. 🤘
+    22 years old, I keep headbanging and coding. 🤘
  </p>
  <p>
     Coding since dec/2020, I'm always learning Android, Kotlin, Typescript, React Native and new important things. I'm also
