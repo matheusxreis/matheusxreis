@@ -8,39 +8,32 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusxreis&layout=compact&langs_count=7&theme=dark"/>
 </a>
  
- ## About me
-
-<p>21 years, always looking for learning new things. 📚</p>
+## 
+ <img width="250" align="right" src="https://source.android.com/docs/setup/images/Android_symbol_green_RGB.svg" />
 
  <p>
- Since january/2021 I'm studying in the UNIP.
- 
+     <b>Android and Kotlin enthusiast</b>,
+    22 years old, , I keep headbanging and coding. 🤘
  </p>
  <p>
- I'm a big fan from GNU/Linux environment, free software and a proud Debian's user. Forever grateful to Javascript. And extremely interested in cybersecurity.
+    Coding since dec/2020, I'm always learning Android, Kotlin, Typescript, React Native and new important things. I'm also
+    completely interested and open to mobile related projects.
  </p>
- 
-Long live programming, programmers, metal and headbangers! :love_you_gesture: 
- 
- ## Technologies I have knowledge of:
 
- 
- <div style="display:flex">
- <img align="center" alt="debian" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-plain.svg">
-<img align="center" alt="react" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="center" alt="redux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
-<img align="center" alt="jest" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
-
-<img align="center" alt="nodejs" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-<img align="center" alt="express" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-<img align="center" alt="typescript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-<img align="center" alt="mongodb" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-<img align="center" alt="postgresql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-<img align="center" alt="materialui" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg">
-<img align="center" alt="heroku" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg">
-<img align="center" alt="kotlin" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-
+ <p>
+   You can contact-me throught:
+ </p>
+ <div>
+  <a href="https://www.linkedin.com/in/matheus-reis-956a11230/">
+    <img src="https://img.shields.io/static/v1?label=&message=linkedin&color=%234285F4&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">  </a>
+  <a href="mailto:matheusxreis@gmail.com">
+    <img src="https://img.shields.io/static/v1?label=&message=gmail&color=%23BB001B&style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"> 
+  </a>
 </div>
+
+
+
+
                                                                             
 
 <!--
