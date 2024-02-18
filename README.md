@@ -1,23 +1,21 @@
- 
 
 
  ## Hello, my name is Matheus! 👋
 
   <a href="https://github.com/matheusxreis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusxreis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusxreis&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusxreis&layout=compact&langs_count=7&theme=dark"/>
 </a>
  
 ## 
- <img width="250" align="right" src="https://source.android.com/docs/setup/images/Android_symbol_green_RGB.svg" />
+ <img width="200" height="200" align="right" src="https://64.media.tumblr.com/dab83664f4a894573ca1af8f643f260a/tumblr_pv67cl6o5Y1y8n9fro2_1280.png" />
 
  <p>
-     <b>Android and Kotlin enthusiast</b>,
-    22 years old, I keep headbanging and coding. 🤘
+     <b>Linux and System Programming enthusiast</b>, 23 years old, coding for hobby and work. 🤘
  </p>
  <p>
-    Coding since dec/2020, I'm always learning Android, Kotlin, Typescript, React Native and new important things. I'm also
-    completely interested and open to mobile related projects.
+    Coding since dec/2020, curreting working with Android, Kotlin, Typescript, and React Native. I'm also
+    completely interested and open to system related projects, involving C/C++ and Rust.
  </p>
 
  <p>
