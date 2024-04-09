@@ -14,7 +14,7 @@
      <b>Linux and System Programming enthusiast</b>, 23 years old, coding for hobby and work. 🤘
  </p>
  <p>
-    Coding since dec/2020, curreting working with Android, Kotlin, Typescript, and React Native. I'm also
+    Coding since dec/2020, currently working with Android, Kotlin, Typescript, and React Native. I'm also
     completely interested and open to system related projects, involving C/C++ and Rust.
  </p>
 
