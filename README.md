@@ -3,15 +3,12 @@
  ## Hello, my name is Matheus! 👋
 
   <a href="https://github.com/matheusxreis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusxreis&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusxreis&layout=compact&langs_count=7&theme=dark"/>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusxreis&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusxreis&layout=compact&langs_count=7&theme=dark"/> -->
 </a>
- 
-## 
- <img width="200" height="200" align="right" src="https://64.media.tumblr.com/dab83664f4a894573ca1af8f643f260a/tumblr_pv67cl6o5Y1y8n9fro2_1280.png" />
-
+ <img width="200" height="200" align="right" src="https://art.pixilart.com/84b39b870304c1a.png" />
  <p>
-     <b>Linux and System Programming enthusiast</b>, 23 years old, coding for hobby and work. 🤘
+     <b>Linux and System Programming enthusiast</b>, 25 years old, coding for hobby and work. 🤘
  </p>
  <p>
     Coding since dec/2020, currently working with Android, Kotlin, Typescript, and React Native. I'm also
