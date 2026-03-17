@@ -6,30 +6,16 @@
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusxreis&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusxreis&layout=compact&langs_count=7&theme=dark"/> -->
 </a>
- <img width="200" height="200" align="right" src="https://art.pixilart.com/84b39b870304c1a.png" />
  <p>
-     <b>Linux and System Programming enthusiast</b>, 25 years old, coding for hobby and work. 🤘
+   Coding since dec/2020, or at least, trying to (I swear I'm trying, despite what tries to stop me).
+     What I really like to do is more low level things, but it doesnt means I am good this.      
+    <br/>
+     If  you want, you can invite me to do any C, (or C++, or Rust) thing.
+     Not is like I not like others areas, I like (a bit). But I am currently working mobile apps, so everyday I am coding Javascript, Typescript & Kotlin things, so I need a break here. Who knows what kind of language I would try  to my break, if I working with C language?
+     <br/> <br/>
+     You also can find me learning Rust or trying to do something with it.
  </p>
- <p>
-    Coding since dec/2020, currently working with Android, Kotlin, Typescript, and React Native. I'm also
-    completely interested and open to system related projects, involving C/C++ and Rust.
- </p>
-
- <p>
-   You can contact-me throught:
- </p>
- <div>
-  <a href="https://www.linkedin.com/in/matheus-reis-956a11230/">
-    <img src="https://img.shields.io/static/v1?label=&message=linkedin&color=%234285F4&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">  </a>
-  <a href="mailto:matheusxreis@gmail.com">
-    <img src="https://img.shields.io/static/v1?label=&message=gmail&color=%23BB001B&style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"> 
-  </a>
-</div>
-
-
-
-
-                                                                            
+                                                                           
 
 <!--
 **matheusxreis/matheusxreis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
